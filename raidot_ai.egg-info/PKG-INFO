@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: raidot-ai
+Version: 0.1.0
+Summary: AI-powered security orchestration platform
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openai>=1.12.0
+Requires-Dist: langchain>=0.1.16
+Requires-Dist: langchain-community>=0.0.38
+Requires-Dist: langchain-openai>=0.1.3
+Requires-Dist: transformers>=4.39.3
+Requires-Dist: torch>=2.2.2
+Requires-Dist: numpy>=1.24.3
+Requires-Dist: crewai>=0.28.0
+Requires-Dist: pyautogen>=0.2.0
+Requires-Dist: fastapi>=0.110.0
+Requires-Dist: uvicorn>=0.29.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: pydantic>=2.6.4
+Requires-Dist: tiktoken>=0.6.0
+Requires-Dist: faiss-cpu>=1.8.0
+Requires-Dist: jupyter>=1.0.0
+Requires-Dist: python-socketio>=5.11.1
+Dynamic: license-file
+
+# sphinx-hackathon
+aditya first commit
