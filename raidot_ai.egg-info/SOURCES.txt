@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+raidot_ai.egg-info/PKG-INFO
+raidot_ai.egg-info/SOURCES.txt
+raidot_ai.egg-info/dependency_links.txt
+raidot_ai.egg-info/requires.txt
+raidot_ai.egg-info/top_level.txt
